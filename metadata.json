@@ -1,0 +1,6 @@
+{
+  "name": "FLOCK OS - Poultry Operations Platform",
+  "description": "Account-secure poultry operations platform for managing farms, flocks, daily operations, weights, sales, and expenses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

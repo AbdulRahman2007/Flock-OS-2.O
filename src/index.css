@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    color: #272926;
+    background-color: #F6F3EB;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Custom warm poultry theme utilities */
+.bg-warm-cream {
+  background-color: #F6F3EB;
+}
+
+.bg-warm-panel {
+  background-color: #EDE7DC;
+}
+
+.border-warm-border {
+  border-color: #E4DEC9;
+}
